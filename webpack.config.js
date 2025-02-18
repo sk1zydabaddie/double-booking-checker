@@ -6,7 +6,7 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 const webpack = require("webpack");
 
 const urlDev = "https://localhost:3000/";
-const urlProd = "https://example.github.io/double-booking-checker/"; // Production URL for the add-in
+const urlProd = "https://sk1zydabaddie.github.io/double-booking-checker/"; // Production URL for the add-in
 const urlLocal = "https://localhost:3000/"; // Local development URL
 
 async function getHttpsOptions() {
